@@ -1,4 +1,4 @@
-# Estimating CATE using the Meta-Learners
+# Estimating CATE using the S-, T-, and X-learner
 This repository contains the code and data for the CSE3000 project regarding "Personalizing Treatment for Intensive Care Unit Patients with Acute Respiratory Distress Syndrome" conducted by Juul Schnitzler.
 
 ## Overview
