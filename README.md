@@ -1,5 +1,5 @@
 # Estimating CATE using the Meta-Learners
-This repository contains the code and data for the project titled "Personalizing Treatment for Intensive Care Unit Patients with Acute Respiratory Distress Syndrome" conducted by Juul Schnitzler.
+This repository contains the code and data for the CSE3000 project regarding "Personalizing Treatment for Intensive Care Unit Patients with Acute Respiratory Distress Syndrome" conducted by Juul Schnitzler.
 
 ## Overview
 Mechanical ventilation is a vital supportive measure for patients with acute respiratory distress syndrome (ARDS) in the intensive care unit (ICU). This project investigates the personalization of positive end-expiratory pressure (PEEP) settings based on patient characteristics using three meta-learning algorithms (S-learner, T-learner, and X-learner) to estimate the conditional average treatment effect (CATE).
