@@ -10,8 +10,10 @@ Mechanical ventilation is a vital supportive measure for patients with acute res
 - **Datasets**: Simulated data, MIMIC-IV dataset, and randomized trial data.
 
 ## Repository Structure
-- `Simulation/`: Contains the simulation setup and the implementation of the meta-learners.
-- `results/`: Contains the results of the experiments.
+- 'External Validation/`: Contains the setup for training and saving models for external validation.
+- `MIMIC/`: Contains the setup for evaluating the performance of the meta-learners on the MIMIC-IV dataset, including pre-processing steps.
+- `RCT/`:Contains the setup for visualizing the results gained from the external validation.
+- `Simulation/`: Contains the different simulations as well as the implementations for the meta-learners (note: different implementations were shown due to the experimental approach of the research)
 
 ### Prerequisites
 - Python 3.9
